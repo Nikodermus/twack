@@ -1,6 +1,6 @@
+export const PIXEL_SIZE = 5;
 export const CHARACTER_SIZE = PIXEL_SIZE * 16;
 export const GRAVITY = PIXEL_SIZE * 0.5;
-export const PIXEL_SIZE = 5;
 export const SPEED = PIXEL_SIZE * 30;
 
 export const KEYBOARD_INPUT = {
